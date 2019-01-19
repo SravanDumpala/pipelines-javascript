@@ -46,5 +46,5 @@ steps:
   inputs:
      command: push An Image
      containerregistrytype: container Registry
-     dockerRegistryEndpoint: registry.contoso.org
+     dockerRegistryEndpoint: https://cloud.docker.com/repository/docker/158615/sravankumar
      imageName: contoso/myjavasriptcontainer:v1.0.0
